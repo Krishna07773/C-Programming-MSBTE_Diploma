@@ -10,18 +10,16 @@ Board: MSBTE — K Scheme
 ## Programs Covered
 
 ### Basic Programs
-- Area of Rectangle and Circle
+- Sum of Digits
 - Even and Odd
 - Grade Calculator
 - Switch Month
+- Reverse Number
 
 ### Number Logic  
 - Fibonacci Series
 - Palindrome Check
 - Prime Numbers
-- Reverse Number
-- Sum of Digits
-- Odd Numbers
 
 ### Arrays
 - Ascending Order
@@ -31,7 +29,7 @@ Board: MSBTE — K Scheme
 - String Reverse and Length
 
 ### Pointers
-- Arithmetic Pointer
+- Pointer Arithmetic
 
 ### Structures
 - Employee Structure
