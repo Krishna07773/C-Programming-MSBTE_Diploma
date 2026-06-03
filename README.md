@@ -4,7 +4,7 @@
 C Programming programs written during 
 2nd Semester of Diploma in AI & ML.
 Student: Krishna Yadav
-Institute: [Tumhara college naam]
+Institute: Vidyavardhini's Bhausaheb Vartak Polytechnic
 Board: MSBTE — K Scheme
 
 ## Programs Covered
